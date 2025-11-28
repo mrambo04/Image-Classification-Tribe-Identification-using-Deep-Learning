@@ -7,7 +7,7 @@ This project builds a deep learning model to classify images of different tribes
 ## 🎯 Objective   
 To design an image classification pipeline that:  
 - Handles image preprocessing and augmentation  
-- Trains a CNN model to distinguish between multiple tribe/image classes  
+- Trains a CNN model to distinguish between multiple tribe/image classes   
 - Evaluates and validates model performance  
 - Demonstrates real-world value in cultural image recognition  
 
