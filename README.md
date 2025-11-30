@@ -1,7 +1,7 @@
 # Tribe-image-classification
 # 🧬 Tribe Image Classification using Deep Learning
 
-## 📘 Overview  
+## 📘 Overview   
 This project builds a deep learning model to classify images of different tribes (or cultural groups) using convolutional neural networks (CNN). It aims to enable automatic identification of tribe/culture from images for applications in anthropology, heritage documentation, or cultural-recognition systems.
 
 ## 🎯 Objective      
