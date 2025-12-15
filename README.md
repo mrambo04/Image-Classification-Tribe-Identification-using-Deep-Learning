@@ -1,4 +1,4 @@
- # Tribe-image-classification
+# Tribe-image-classification
 # 🧬 Tribe Image Classification using Deep Learning 
  
 ## 📘 Overview   
