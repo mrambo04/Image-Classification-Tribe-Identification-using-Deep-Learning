@@ -12,7 +12,7 @@ To design an image classification pipeline that:
 - Demonstrates real-world value in cultural image recognition    
 
 ## 🧰 Tools & Technologies   
-Python | NumPy | TensorFlow / Keras | OpenCV | Matplotlib | Jupyter Notebook
+Python | NumPy | TensorFlow / Keras | OpenCV | Matplotlib | Jupyter Notebook 
  
 ## 🧮 Approach  
 1. **Data Collection & Preprocessing** – Load images, resize, normalize, apply augmentation (rotations/flips)  
