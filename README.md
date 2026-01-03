@@ -10,7 +10,7 @@ To design an image classification pipeline that:
 - Trains a CNN model to distinguish between multiple tribe/image classes     
 - Evaluates and validates model performance    
 - Demonstrates real-world value in cultural image recognition    
-
+ 
 ## 🧰 Tools & Technologies   
 Python | NumPy | TensorFlow / Keras | OpenCV | Matplotlib | Jupyter Notebook 
   
