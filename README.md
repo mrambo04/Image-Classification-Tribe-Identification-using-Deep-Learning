@@ -13,7 +13,7 @@ To design an image classification pipeline that:
 
 ## 🧰 Tools & Technologies   
 Python | NumPy | TensorFlow / Keras | OpenCV | Matplotlib | Jupyter Notebook 
- 
+  
 ## 🧮 Approach  
 1. **Data Collection & Preprocessing** – Load images, resize, normalize, apply augmentation (rotations/flips)  
 2. **Model Design** – Build a CNN architecture (or use transfer learning) tailored for fine-grained image classification  
